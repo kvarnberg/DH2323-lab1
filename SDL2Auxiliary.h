@@ -1,7 +1,7 @@
 #ifndef SDL2_AUXILIARY_H
 #define SDL2_AUXILIARY_H
 
-#include </usr/local/include/SDL2/SDL.h>
+#include </usr/Local/include/SDL2/SDL.h>
 
 class SDL2Aux
 {
